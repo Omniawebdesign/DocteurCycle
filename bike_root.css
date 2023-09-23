@@ -223,7 +223,7 @@
   #navigation .hamburger-menu span {
     height: 2px;
     width: 1.875em;
-    background-color: #000;
+    background-color: #fff;
     display: block;
     position: absolute;
     left: 50%;
@@ -238,7 +238,7 @@
     display: block;
     height: 2px;
     width: 80%;
-    background: #000;
+    background: #fff;
     opacity: 1;
     top: -6px;
     left: 0;
@@ -253,7 +253,7 @@
     display: block;
     height: 2px;
     width: 80%;
-    background: #000;
+    background: #fff;
     opacity: 1;
     top: 6px;
     left: 0;
