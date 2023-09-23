@@ -818,7 +818,16 @@ For quick reference:
             <span class="copyright"> Copyright 2021 - Present</span></div>
     </footer>
 
-    <script defer src="/nav.js"></script>
+    <script defer>
+        
+const navbarMenu = document.querySelector("#navigation #navbar-menu");
+const hamburgerMenu = document.querySelector("#navigation .hamburger-menu");
+
+hamburgerMenu.addEventListener('click', function() {
+    navbarMenu.classList.toggle("open");
+    hamburgerMenu.classList.toggle("clicked");
+});
+    </script>
     <script defer src="/dark.js"></script>
     <!--
         This script adds a class to the body after scrolling 100px
