@@ -798,3 +798,11 @@
   width: 17%;
 }
 }
+
+@media (max-width: 500px) {
+  #cta-1072 .cs-background:before {
+  opacity: 0.85;
+}
+}
+
+
