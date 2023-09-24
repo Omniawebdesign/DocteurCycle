@@ -96,7 +96,7 @@
   #cs-menu-group-1039 .cs-button-group {
     width: auto;
     max-width: 62.5rem;
-    margin: 0 1rem;
+    margin: 0 0.5rem;
     /* 16px - 28px top & bottom */
     /* 32px - 48px left & right */
     padding: clamp(1rem, 3vw, 1.75rem) clamp(2rem, 4vw, 3rem);
