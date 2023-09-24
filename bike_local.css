@@ -15,7 +15,7 @@
 @media only screen and (min-width: 0rem) {
   #steps {
     padding: var(--sectionPadding);
-    background: #0C0C0C;
+    background: #0e0e0e;
   }
   #steps .cs-container {
     display: flex;
@@ -609,7 +609,7 @@
     /* remove the font family so the Stitch inherits the fonts from your global stylesheet */
     font-family: "Roboto", "Arial", sans-serif;
     padding: var(--sectionPadding);
-    background-color: #0C0C0C;
+    background-color: #0e0e0e;
   }
   #services-1176 .cs-container {
     max-width: 34.375rem;
