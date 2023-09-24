@@ -786,5 +786,9 @@
   transform:rotate(75deg);
 }
 }
-
+@media (max-width: 500px) {
+  #why-957 {
+  padding-bottom: 2.5em ;
+}
+}
 
