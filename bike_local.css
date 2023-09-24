@@ -769,3 +769,20 @@
 #services-1176 span{
   color: #C6E4FF;
 }
+
+
+
+
+
+
+
+
+
+
+
+
+@media only screen and (max-width: 40rem) {
+#steps .cs-arrow-img {
+  transform:rotate(75deg);
+}
+} 
