@@ -132,7 +132,7 @@
   }
   #cs-menu-group-1039 .cs-button:after {
     /* active state icon */
-    content: '';
+    
     position: relative;
     display: block;
     width: 0;
