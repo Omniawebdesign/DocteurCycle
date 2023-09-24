@@ -146,7 +146,7 @@
     transition: width 0.3s, opacity 0.3s, margin-left 0.3s;
   }
   #cs-menu-group-1039 .cs-button.cs-active {
-    color: var(--bodyTextColorWhite);
+    color: #C6E4FF;
     font-weight: 700;
   }
   #cs-menu-group-1039 .cs-button.cs-active:after {
