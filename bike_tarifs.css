@@ -148,7 +148,7 @@
   #cs-menu-group-1039 .cs-button.cs-active {
     color: #C6E4FF;
     font-weight: 700;
-    text-shadow: 0px 0px 8px #C6E4FF;
+    text-shadow: 0px 0px 9px #C6E4FF;
   }
   #cs-menu-group-1039 .cs-button.cs-active:after {
     width: clamp(1.5625rem, 3vw, 2.25rem);
