@@ -781,8 +781,10 @@
 
 
 
-
-#steps .cs-arrow-img {
+@media (max-width: 500px) {
+  #steps .cs-arrow-img {
   transform:rotate(75deg);
 }
+}
+
 
