@@ -191,6 +191,7 @@
       /* this is what creates the grow affect on hover */
       transform: scaleX(0);
       transition: transform .3s;
+        border-radius: 50px;
     }
     #hero-997 .cs-button-transparent:hover {
       color: #1a1a1a;
