@@ -517,7 +517,7 @@
     content: '';
     position: absolute;
     display: block;
-    width: 100%;
+    width: 0%;
     height: 0.31578947em;
     background: var(--primary);
     opacity: 1;
