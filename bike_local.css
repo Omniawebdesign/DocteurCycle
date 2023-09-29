@@ -807,3 +807,11 @@
 }
 
 
+@media (max-width: 500px) {
+  #steps {
+  background: #151515;
+}
+}
+
+
+
