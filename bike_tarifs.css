@@ -284,6 +284,7 @@
     left: 0;
     z-index: -1;
     transition: width .3s;
+    border-radius: 50px;
   }
   #cs-menu-group-1039 .cs-button-solid:hover:before {
     width: 100%;
