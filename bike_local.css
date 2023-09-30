@@ -812,6 +812,10 @@
   background: #101010;
 }
 }
-
+@media (max-width: 500px) {
+  #services-1176 {
+  background: #101010;
+}
+}
 
 
