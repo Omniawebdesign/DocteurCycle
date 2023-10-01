@@ -532,7 +532,7 @@
     border-radius: 50px;
   }
   #cta-1072 .cs-button-transparent:hover {
-    color: var(--primary);
+    color: #000;
   }
   #cta-1072 .cs-button-transparent:hover:before {
     width: 100%;
